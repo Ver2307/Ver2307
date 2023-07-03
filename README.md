@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I am 
+- an experienced expert in ML and NLP with standard tools: Python, PyTorch, Huggingface
+- able to deliver results in fast-paced environments
+- someone who loves to learn and grow
+
+💬 Ask me about Machine Learning and NLP
+
 <!--
 **Ver2307/Ver2307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
